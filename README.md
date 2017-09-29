@@ -1,2 +1,2 @@
 # React Calculator
-Just a simple calculator in React
+Just a simple calculator
